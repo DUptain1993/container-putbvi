@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "DUptain1993",
+  "repo": "container-putbvi",
+  "name": "DUptain1993",
+  "email": "daniel.r.uptain93@gmail.com",
+}
